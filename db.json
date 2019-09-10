@@ -1,4 +1,65 @@
 {
+  "employee": [
+    {   
+   "status":"SUCCESS", 
+   "message":"NULL", 
+   "employeeDetails":{   
+      "HRMSNO":"1001", 
+      "EMPTITLE":"MR.", 
+      "EMP_FIRST_NAME":"SATISH", 
+      "EMP_MIDDLE_NAME":"", 
+      "EMP_LAST_NAME":"H", 
+      "EMPGENDER":"M", 
+      "EMPMOBILENO":"1234567890", 
+      "EMPEMAILID":"1001@company.com", 
+      "EMPLDAPUSERID":"SATISH1001", 
+      "EMPDOJ":"2013-07-16 00:00:00", 
+      "EMPBUSINESSUNIT":"INFORMATION TECHNOLOGY", 
+      "EMPSUBBUSINESSUNIT":"IT MANAGEMENT", 
+      "EMPDEPARTMENT":"APPLICATION  MANAGEMENT", 
+      "EMPDESIGNATION":"APPLICATION SUPPORT", 
+      "EMPGRADE":"MANAGER", 
+      "EMPREGION":"MUMBAI", 
+      "EMPSTATE":"MAHARASHTRA", 
+      "EMPLOCATION":"MUMBAI", 
+      "EMPBRANCH":"CORPORATE OFFICE", 
+      "EMPBR":"001", 
+      "EMPREPORTINGMANAGER":"2002", 
+      "RMEMAILID":"1001@company.com"
+      }
+    },
+     {   
+   "status":"SUCCESS", 
+   "message":"NULL", 
+   "employeeDetails":{   
+      "HRMSNO":"1002", 
+      "EMPTITLE":"MR.", 
+      "EMP_FIRST_NAME":"LATISH", 
+      "EMP_MIDDLE_NAME":"", 
+      "EMP_LAST_NAME":"H", 
+      "EMPGENDER":"M", 
+      "EMPMOBILENO":"987654321", 
+      "EMPEMAILID":"1002@company.com", 
+      "EMPLDAPUSERID":"LATISH1002", 
+      "EMPDOJ":"2013-07-16 00:00:00", 
+      "EMPBUSINESSUNIT":"INFORMATION TECHNOLOGY", 
+      "EMPSUBBUSINESSUNIT":"IT MANAGEMENT", 
+      "EMPDEPARTMENT":"APPLICATION  MANAGEMENT", 
+      "EMPDESIGNATION":"APPLICATION SUPPORT", 
+      "EMPGRADE":"MANAGER", 
+      "EMPREGION":"MUMBAI", 
+      "EMPSTATE":"MAHARASHTRA", 
+      "EMPLOCATION":"MUMBAI", 
+      "EMPBRANCH":"CORPORATE OFFICE", 
+      "EMPBR":"002", 
+      "EMPREPORTINGMANAGER":"3002", 
+      "RMEMAILID":"1002@company.com"
+      }
+    }
+    ]
+     
+    
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
