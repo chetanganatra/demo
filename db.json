@@ -1,8 +1,6 @@
 {
 	"employee": [{
-			"status": "SUCCESS",
-			"message": "NULL",
-			"employeeDetails": {
+			
 				"HRMSNO": "1001",
 				"EMPTITLE": "MR.",
 				"EMP_FIRST_NAME": "SATISH",
@@ -25,11 +23,9 @@
 				"EMPBR": "001",
 				"EMPREPORTINGMANAGER": "2002",
 				"RMEMAILID": "1001@company.com"
-			}
+			
 		}, {
-			"status": "SUCCESS",
-			"message": "NULL",
-			"employeeDetails": {
+			
 				"HRMSNO": "1002",
 				"EMPTITLE": "MR.",
 				"EMP_FIRST_NAME": "LATISH",
@@ -53,7 +49,7 @@
 				"EMPREPORTINGMANAGER": "3002",
 				"RMEMAILID": "1002@company.com"
 			}
-		}
+		
 	],
 	"posts": [{
 			"id": 1,
